@@ -218,13 +218,6 @@
 -->
 
 
-## ⚡ Status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CODEMAX666&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CODEMAX666&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CODEMAX666&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CODEMAX666&theme=algolia&utcOffset=8)
-
 - 📫 How to reach me </br>
     Skype: live:.cid.cb7290e0bae302e2 </br>
 
