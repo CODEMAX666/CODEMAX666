@@ -5,6 +5,8 @@
   </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineer)](https://git.io/typing-svg)
+
 ## 💬 Talk with me 
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
